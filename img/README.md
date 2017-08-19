@@ -1,0 +1,1 @@
+Imagens utilizadas nesse projeto.
