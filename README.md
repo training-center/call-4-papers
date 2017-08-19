@@ -11,7 +11,12 @@ Como parte de nosso objetivo, que é capacitar pessoas, temos canais de conteúd
 
 Esse repositório trata sobre como você pode enviar uma proposta de live para o nosso canal do YouTube.
 
-## Conteúdo que é aceito em nosso canal
+## Sumário
+
+* [Conteúdo aceito em nosso canal](#conteúdo-aceito-em-nosso-canal)
+* [Submeter palestra](#submeter-palestra-)
+
+## Conteúdo aceito em nosso canal
 
 O conteúdo pode ser sobre desenvolvimento de software ou não.
 
