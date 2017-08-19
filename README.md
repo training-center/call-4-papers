@@ -19,6 +19,8 @@ Você pode usar o nosso canal como um local para fazer suas primeiras apresenta�
 
 O conteúdo, porém, não deve ferir nenhum ponto de nosso [código de conduta](https://github.com/training-center/sobre/blob/master/CONDUCT.md), assim como em qualquer de nossos projetos.
 
-## [Submeter palestra](https://trainingcenter2.typeform.com/to/Vis7fO)
+## Submeter palestra <img src="https://github.com/training-center/call-4-papers/blob/master/img/send-button.png?raw=true" width="20px" alt="enviar">
+
+Basta responder esse [questionário](https://trainingcenter2.typeform.com/to/Vis7fO)
 
 **Não iremos te julgar se você errar em uma live, gaguejar ou ficar com aquela tensão.**
