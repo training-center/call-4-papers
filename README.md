@@ -15,6 +15,7 @@ Esse repositório trata sobre como você pode enviar uma proposta de live para o
 
 * [Conteúdo aceito em nosso canal](#conteúdo-aceito-em-nosso-canal)
 * [Submeter palestra](#submeter-palestra-)
+* [Submeter palestra para nossos meetups](#submeter-palestra-para-nossos-meetups)
 
 ## Conteúdo aceito em nosso canal
 
@@ -29,3 +30,15 @@ O conteúdo, porém, não deve ferir nenhum ponto de nosso [código de conduta](
 Basta responder esse [questionário](https://trainingcenter2.typeform.com/to/Vis7fO)
 
 **Não iremos te julgar se você errar em uma live, gaguejar ou ficar com aquela tensão.**
+
+## Submeter palestra para nossos meetups
+
+Possuímos também meetups regionais organizados pelos membros do Training Center. Se você deseja palestrar em alguns desses eventos, você pode abrir uma issue nesse repositório com os item abaixo.
+
+Informar qual o evento
+Nome completo
+Redes sociais
+Nome da talk
+Link para slides (se tiver)
+Precisa de algum equipamento
+Tem necessidades especiais
