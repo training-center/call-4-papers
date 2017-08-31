@@ -35,10 +35,10 @@ Basta responder esse [questionário](https://trainingcenter2.typeform.com/to/Vis
 
 Possuímos também meetups regionais organizados pelos membros do Training Center. Se você deseja palestrar em alguns desses eventos, você pode abrir uma issue nesse repositório com os item abaixo.
 
-Informar qual o evento
-Nome completo
-Redes sociais
-Nome da talk
-Link para slides (se tiver)
-Precisa de algum equipamento
-Tem necessidades especiais
+- Informar qual o evento
+- Nome completo
+- Redes sociais
+- Nome da talk
+- Link para slides (se tiver)
+- Precisa de algum equipamento?
+- Tem necessidades especiais?
