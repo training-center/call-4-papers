@@ -2,6 +2,8 @@
 
 Repositório com regras para a criação de conteúdo em vídeo para o Training Center em forma de palestras e local para se candidatar para uma talk.
 
+**Nota importante: Não iremos te julgar se você errar em uma live, gaguejar ou ficar com aquela tensão.**
+
 ---
 
 Como parte de nosso objetivo, que é capacitar pessoas, temos canais de conteúdo na internet como:
@@ -20,9 +22,9 @@ Esse repositório trata sobre como você pode enviar uma proposta de live para o
 
 O conteúdo pode ser sobre desenvolvimento de software ou não.
 
-Aceitamos todos os niveis de palestras, desde algo para pessoas iniciantes até coisas extremamente avançadas.
+Aceitamos todos os níveis de palestras, desde algo para pessoas iniciantes até coisas extremamente avançadas.
 
-O conteúdo, porém, não pode ferir nenhum ponto de nosso [código de conduta](https://github.com/training-center/sobre/blob/master/CONDUCT.md).
+O conteúdo, porém, não pode ferir nenhum ponto do nosso [código de conduta](https://github.com/training-center/sobre/blob/master/CONDUCT.md).
 
 *Dica: Você pode usar o nosso canal como um local para fazer suas primeiras apresentações e criar coragem para submeter uma palestra em um evento grande (alá [BrazilJS](https://braziljs.org/conf/), [QCon](https://qconferences.com/), [The Conf](http://www.theconf.club/), dentre outras).*
 
@@ -40,14 +42,10 @@ Conteúdo da issue:
 
 **Exemplo de issue**
 
-**Analise de complexidade ciclomática em JavaScript - Live**
+**Análise de complexidade ciclomática em JavaScript - Live**
 
 ```
 - Nome completo: William Oliveira
 - Redes sociais: @w_oliveiras (twitter) @woliveiras (GitHub e Telegram)
 - Resumo do que será apresentado: Vou apresentar nessa live como efetuar a análise de complexidade ciclomática em JavaScript.
 ```
-
----
-
-**Não iremos te julgar se você errar em uma live, gaguejar ou ficar com aquela tensão.**
